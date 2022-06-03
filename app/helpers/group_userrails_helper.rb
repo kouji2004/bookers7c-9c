@@ -1,0 +1,2 @@
+module GroupUserrailsHelper
+end
